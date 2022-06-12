@@ -6,7 +6,7 @@ Data visualization based on 7026 sample apps (and games) on Play Store using Pyt
     <details>
       <summary>Answer</summary>
       <p align="center">
-        <img src="_img/app_categories.svg"/>
+        <img src="_img/app_categories.svg"/><br>
         <sup>Family (21.5%), Games (11.9%), Utilities (8.9%), Business & Finance (6.8%), Social & Comms (4.9%)</sup>
       </p>
     </details>
@@ -15,7 +15,7 @@ Data visualization based on 7026 sample apps (and games) on Play Store using Pyt
     <details>
       <summary>Answer</summary>
       <p align="center">
-        <img src="_img/app_star_ratings.svg"/>
+        <img src="_img/app_star_ratings.svg"/><br>
         <sup>Most apps are rated 4.4 (722 out of 7026 apps), mean: 4.16</sup>
       </p>
     </details>
@@ -24,7 +24,7 @@ Data visualization based on 7026 sample apps (and games) on Play Store using Pyt
     <details>
       <summary>Answer</summary>
       <p align="center">
-        <img src="_img/app_sizes.svg"/>
+        <img src="_img/app_sizes.svg"/><br>
         <sup>Most apps are around 11-26 MB (1597 out of 7026 apps), mean: 41 MB</sup>
       </p>
     </details>
@@ -33,7 +33,7 @@ Data visualization based on 7026 sample apps (and games) on Play Store using Pyt
     <details>
       <summary>Answer</summary>
       <p align="center">
-        <img src="_img/app_content_ratings.svg"/>
+        <img src="_img/app_content_ratings.svg"/><br>
         <sup>Most apps are rated for everyone (5676 out of 7026 apps)</sup>
       </p>
     </details>
@@ -56,7 +56,7 @@ Data visualization based on 7026 sample apps (and games) on Play Store using Pyt
 
 ## Infographic Poster
 <p align="center">
-  <img src="_docs/poster.png"/>
+  <img src="_img/poster.png"/><br>
   <sup>Made with Figma</sup>
 </p>
 
